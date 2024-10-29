@@ -1,4 +1,4 @@
-# IAT 167 Final Project - Volt Legacy
+# Volt Legacy
 A very challenging platformer game made completely from scratch in Processing. 
 
 ## Main Concepts Used
